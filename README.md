@@ -1,4 +1,5 @@
 # first
 this is my first git repository
 <br>
-author - amit
+author - amit dey
+git status
